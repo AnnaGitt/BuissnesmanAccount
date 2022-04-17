@@ -1,0 +1,9 @@
+Tax 15% on income 1000 and expenses 500,1000,500,75
+Tax 15% on income 0 and expenses 500,0,500,0
+Tax 15% on income 1000 and expenses 0,1000,0,150
+Tax 15% on income 0 and expenses 0,0,0,0
+Tax 15% on income 500 and expenses 1000,500,1000,0
+Tax 15% on income -1000 and expenses 500,-1000,500,0
+Tax 15% on income -1000 and expenses -1000,-1000,-1000,0
+Tax 15% on income -1000 and expenses 1000,-1000,1000,0
+Tax 15% on income 100 and expenses -1000,100,-1000,15

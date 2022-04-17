@@ -1,0 +1,6 @@
+Increase on 1000,1000,1000,2000
+Increase on 0,1000,0,1000
+Increase on -1000,1000,-1000,0
+Increase on -1500,1000,-1500,0
+Increase expences = -1000 on 1000,-1000,1000,1000
+Increase expences = -1000 on -1000,-1000,-1000,0
